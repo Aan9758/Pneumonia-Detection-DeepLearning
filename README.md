@@ -109,4 +109,3 @@ Contributions are welcome! Feel free to fork this repo and submit a pull request
 This project is licensed under the **MIT License** – you’re free to use, modify, and distribute.
 
 ---
-on, TensorFlow version, etc.)** and a **visual sample curve image section** in the README to make it even more professional?
