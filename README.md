@@ -109,9 +109,4 @@ Contributions are welcome! Feel free to fork this repo and submit a pull request
 This project is licensed under the **MIT License** – you’re free to use, modify, and distribute.
 
 ---
-
-🔥 With deep learning, we aim to assist radiologists in faster and more accurate pneumonia diagnosis.
-
----
-
-Do you want me to also add **badges (like accuracy, Python version, TensorFlow version, etc.)** and a **visual sample curve image section** in the README to make it even more professional?
+on, TensorFlow version, etc.)** and a **visual sample curve image section** in the README to make it even more professional?
