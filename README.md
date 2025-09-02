@@ -1,4 +1,7 @@
-Here’s a polished and attractive **README.md** for your Pneumonia Detection project:
+## 🌐 Live Demo  
+
+[![Hugging Face Spaces](https://img.shields.io/badge/🚀%20Try%20Demo-HuggingFace-blue?logo=huggingface)](https://huggingface.co/spaces/demodemodemo123/Pneumonia-Detector)
+
 
 ---
 
